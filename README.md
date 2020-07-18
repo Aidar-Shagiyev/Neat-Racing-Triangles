@@ -7,6 +7,8 @@ Use reinforcement learning (specifically [NEAT](https://neat-python.readthedocs.
 ### Running the race
 To run the simulation just execute run.py:
 ```
+git clone https://github.com/Aidar-Shagiyev/Neat-Racing-Triangles
+cd Neat-Racing-Triangles/game
 python run.py
 ```
 This will result in something like this:
