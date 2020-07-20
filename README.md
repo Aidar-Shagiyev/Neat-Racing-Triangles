@@ -18,4 +18,5 @@ cd Neat-Racing-Triangles/game
 python run.py
 ```
 This will result in something like this:
+
 ![](race.gif)
